@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
 
-public class Main {
+public class Main1 {
 
 	public static void main(String[] args) throws IOException {
 		//4949 균형잡힌 세상 * 자료구조 / 문자열 / 스택
